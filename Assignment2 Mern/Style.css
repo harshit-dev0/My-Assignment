@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(129, 170, 244);
+}
+.Main{
+    color: navy;
+    margin: 15px ;
+}
+#child{
+    background-color: rgb(138, 215, 241);
+    font-size: 20px;
+}
+#content{
+    border: 1px solid rgb(138, 215, 241);
+    border-radius: 10px ;
+    background-color: white;
+    margin: 15px;
+}
+.clues{
+    color: darkgreen;
+    margin: 15px ;
+}
+label{
+    display: block;
+    margin-left: 15px;
+}
+.blocks{
+    border: 1px solid black;
+}
+.form{
+    width: 95%;
+    margin: 10px;
+}
+p{
+    margin: 15px ;
+    display: inline-block;
+}
+.hadio{
+    display: inline-block;
+    margin: 0px;
+}

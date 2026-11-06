@@ -1,0 +1,75 @@
+#parent{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border: 2px solid rgb(240, 214, 214);
+}
+#child1{
+    background-color: rgba(2, 33, 66, 0.984);
+    height: 8vh;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+#child2{
+    background-color: rgb(3, 67, 3);
+    color: white;
+    padding: 5px;
+}
+.button{
+    background-color: rgb(0, 79, 128);
+    color: white;
+    width: 20%;
+    position: relative;
+    margin-bottom: 180px ;
+}
+.autton{
+     background-color: rgb(0, 79, 128);
+    color: white;
+    width: 20%;
+}
+.favourite{
+    display: inline-block;
+    border: 2px solid black;
+    width: 32.2%;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: rgba(177, 239, 236, 0.224);
+    width: 32%;
+}
+img{
+    width: 100% ;
+    height: 15vh;
+}
+.Come{
+    width: 98% ;
+}
+#child3{
+    margin-left: 15px ;
+}
+.footer{
+    background-color: rgb(2, 33, 66,0.984);
+    color: white;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.link{
+    margin-left:200px  ;
+}
+a{
+    text-decoration: none;
+    color: rgb(243, 242, 242);
+    margin: 5px;
+}
+.heading{
+    color: rgba(2, 33, 66, 0.984);
+}
+.para{
+    color: rgb(102, 101, 101);
+}
+body{
+    margin: 20px;
+    margin-top: 30px;
+}

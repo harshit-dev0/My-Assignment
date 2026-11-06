@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border: 2px solid rgb(222, 247, 184);
+}
+td{
+    text-align: center;
+}
+.odd{
+    background-color: white;
+}
+.even{
+    background-color: rgba(149, 201, 201, 0.381);
+}
+th{
+    background-color: navy;
+    color: white ;
+}
+.main{
+    color: rgba(0, 0, 128, 0.84);
+}
+h4{
+    color: rgb(101, 101, 101);
+}
