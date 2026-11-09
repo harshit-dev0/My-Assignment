@@ -1,0 +1,70 @@
+#main{
+    color: navy;
+}
+#parent{
+    border: 1px solid black;
+    background-color: rgb(223, 235, 205);
+}
+#name{
+    background-color: navy;
+    margin-top: 0px;
+    color: white;
+}
+#heading{
+    color: navy;
+    padding: 10px;
+}
+.under{
+    padding: 10px;
+    color: rgb(90, 86, 86);
+}
+h3{
+    padding: 10px;
+}
+button{
+    background-color: aquamarine;
+    width: 20vw ;
+}
+#pro1{
+    height: 30vh;
+    width: 28vw;
+    border: 1px solid black;
+    margin-left: 50px;
+    display: inline-block;
+}
+#pro2{
+    height: 30vh;
+    width: 28vw;
+    border: 1px solid black;
+    margin-left: 200px;
+    display: inline-block;
+}
+#child1{
+    border: 1px solid black;
+    margin: 5px;
+    background-color: aquamarine;
+    height: 35%;
+}
+#child2{
+    border: 1px solid black;
+    margin: 5px;
+    background-color: aquamarine;
+    height: 35%;
+}
+#h3{
+    background-color: navy;
+    color: white;
+    display: inline-block;
+    width: 95vw;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 5px;
+}
+.links{
+    margin-left: 800px;
+}
+body{
+    background-color: rgb(171, 215, 232);
+}
